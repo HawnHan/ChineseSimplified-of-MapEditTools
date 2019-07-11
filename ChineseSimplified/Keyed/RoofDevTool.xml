@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RoofDevTool.DesignatorBuildRoof>建造屋顶</RoofDevTool.DesignatorBuildRoof>
+  <RoofDevTool.DesignatorBuildRoofDesc>立即造出任意屋顶。</RoofDevTool.DesignatorBuildRoofDesc>
+
+  <RoofDevTool.DesignatorRemoveRoof>移除屋顶</RoofDevTool.DesignatorRemoveRoof>
+  <RoofDevTool.DesignatorRemoveRoofDesc>立即移除任意屋顶。</RoofDevTool.DesignatorRemoveRoofDesc>
+
+</LanguageData>

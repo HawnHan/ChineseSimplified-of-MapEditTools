@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MapEditTools.DesignatorBuildRoof>建造屋顶</MapEditTools.DesignatorBuildRoof>
+  <MapEditTools.DesignatorBuildRoofDesc>立即建造任意屋顶。</MapEditTools.DesignatorBuildRoofDesc>
+
+  <MapEditTools.DesignatorRemoveRoof>移除屋顶</MapEditTools.DesignatorRemoveRoof>
+  <MapEditTools.DesignatorRemoveRoofDesc>立即移除任意屋顶</MapEditTools.DesignatorRemoveRoofDesc>
+
+  <MapEditTools.DesignatorSetTerrain>设置地形</MapEditTools.DesignatorSetTerrain>
+  <MapEditTools.DesignatorSetTerrainDesc>地形改造。</MapEditTools.DesignatorSetTerrainDesc>
+
+</LanguageData>
