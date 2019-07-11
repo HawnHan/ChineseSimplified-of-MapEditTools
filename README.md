@@ -1,6 +1,6 @@
 # ChineseSimplified-of-MapEditTools
 ChineseSimplified of MapEditTools
 
-它很简单，但很实用。
+绠�鍗曞嵈瀹炵敤
 
 It's simple, but practical.
